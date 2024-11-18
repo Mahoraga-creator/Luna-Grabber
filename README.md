@@ -91,7 +91,7 @@ Make sure you have Python 3.11+ installed and it is added to your path.
 ```
 Once you've downloaded the files extract the folder so it's no longer a .zip file.
 ```
-### 3. Open The setup.bat File:
+### 3. Open The luna  File:
 
 ```
 You dont need to manually install any modules. Just opening setup.bat will install them for you. If successfull the setup.bat will then open up the gui.
