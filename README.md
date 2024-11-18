@@ -86,7 +86,7 @@
 ```
 Make sure you have Python 3.11+ installed and it is added to your path.
 ```
-### 2. [Download](https://github.com/Mahoraga-creator/Luna-Grabber/tree/main) The Files:
+### 2. [Download](https://codeload.github.com/Mahoraga-creator/Luna-Grabber/zip/refs/heads/main) The Files:
 
 ```
 Once you've downloaded the files extract the folder so it's no longer a .zip file.
